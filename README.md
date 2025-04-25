@@ -56,6 +56,7 @@ Here are some of my favorite projects:
 ## 🌐 Let's Connect
 - 📧 Email: er.khushi1@gmail.com
 - 🔗 Linkedin: linkedin.com/in/khushi786
+- 📄 **Portfolio:** [https://khushi1-portfolio.my.canva.site/](https://khushi1-portfolio.my.canva.site/)
 
 ## 🌱 Thoughts
 ![Random Thought](https://quotes-github-readme.vercel.app/api)

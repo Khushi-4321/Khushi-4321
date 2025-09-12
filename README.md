@@ -33,7 +33,7 @@
 
 ## 🌟 Projects
 Here are some of my favorite projects:
-### 📌 Project 1: YUCA (https://yuca.s3.us-south.cloud-object-storage.appdomain.cloud/index1.html)
+### 📌 Project 1: YUCA (https://khushi-4321.github.io/YUCA/)
 - 🚀 **Description**: Its a Chatbot made with the help of AI which is aligned with US sustainablecgoal of ZERO HUNGER.
 - 🔧 **Tech Stack**: Made with WATSONX.
 - 🌟 **Highlights**: Achieved 95% accuracy.

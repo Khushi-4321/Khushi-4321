@@ -1,4 +1,4 @@
-# Hi, I'm Khushi Garg 👩‍💻
+# Hi, I'm Khushi
 
 **B.Tech CSE '27 · Agentic AI · Full-Stack Dev · Cybersecurity**
 

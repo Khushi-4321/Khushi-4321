@@ -94,7 +94,7 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ## 🚀 Projects
 
-### [VISHWASA](https://github.com/Khushi-4321/vishwasa-2.0): Heritage Sustainability Platform
+### [VISHWASA](https://khushi-4321.github.io/vishwasa-2.0/): Heritage Sustainability Platform
 > Responsive web platform promoting India's cultural heritage through eco-friendly solutions.
 - **Stack:** HTML, CSS, JavaScript
 - **Role:** Team lead, frontend development

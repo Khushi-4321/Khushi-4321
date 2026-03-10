@@ -3,7 +3,7 @@
 **B.Tech CSE '27 · Agentic AI · Full-Stack Dev · Cybersecurity**
 
 > Pre-final year CS student from India building real things at the intersection of AI, web development, and security.
-> Currently deep in DSA grind, Python fundamentals, and Agentic AI systems — committing every single day.
+> Currently deep in DSA grind, Python fundamentals, and Agentic AI systems committing every single day.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi786)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/khushi4321)
@@ -13,10 +13,10 @@
 ---
 
 ##  What I'm Building Right Now
--  **Agentic AI** — LLMs, RAG pipelines, LangChain, autonomous agent systems
--  **DSA** — Daily LeetCode grind, Blind 75 in progress
--  **Fullstack** — React + FastAPI + deployment
--  **Cloud** — Google Cloud Platform, API integrations
+-  **Agentic AI:** LLMs, RAG pipelines, LangChain, autonomous agent systems
+-  **DSA:** Daily LeetCode grind, Blind 75 in progress
+-  **Fullstack:** React + FastAPI + deployment
+-  **Cloud:** Google Cloud Platform, API integrations
 
 ---
 
@@ -26,10 +26,10 @@
 Worked on intelligent automation workflows and agentic AI systems using IBM's AI ecosystem and LLM integrations.
 
 **Frontend Developer Intern @ IBM** *(Jul 2024 – Aug 2024)*
-Led a team of 4 to design and build VISHWASA — a heritage sustainability platform using HTML, CSS, and JavaScript.
+Led a team of 4 to design and build VISHWASA, a heritage sustainability platform using HTML, CSS, and JavaScript.
 
 **AI/ML Intern @ IBM** *(Jun 2024 – Jul 2024)*
-Led a team of 8 to build YUCA — a Zero Hunger chatbot using NLP techniques and IBM WatsonX.
+Led a team of 8 to build YUCA, a Zero Hunger chatbot using NLP techniques and IBM WatsonX.
 
 **Cybersecurity Intern @ IBM** *(Oct 2024 – Nov 2024)*
 Researched real-world cybersecurity incidents including the Pager Attack. Applied network security and threat analysis concepts.
@@ -94,17 +94,17 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ## 🚀 Projects
 
-### [VISHWASA](https://vishwasa-2-0.vercel.app/) — Heritage Sustainability Platform
+### [VISHWASA](https://github.com/Khushi-4321/vishwasa-2.0): Heritage Sustainability Platform
 > Responsive web platform promoting India's cultural heritage through eco-friendly solutions.
 - **Stack:** HTML, CSS, JavaScript
 - **Role:** Team lead, frontend development
 
-### [YUCA](https://khushi-4321.github.io/YUCA/) — Zero Hunger AI Chatbot
+### [YUCA](https://khushi-4321.github.io/YUCA/): Zero Hunger AI Chatbot
 > NLP-powered chatbot aligned with UN Sustainable Development Goal #2: Zero Hunger.
 - **Stack:** IBM WatsonX, NLP
 - **Role:** Team lead, project coordination
 
-### AI Triage System — Hospital Use Case *(Team Project)*
+### AI Triage System, Hospital Use Case *(Team Project)*
 > Multi-agent workflow for hospital patient routing across General, Emergency, and Mental Health wards.
 - **Stack:** Relay.app automation, custom frontend, Google Sheets integration
 - **Role:** Workflow design + frontend interface

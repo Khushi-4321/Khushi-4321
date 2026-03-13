@@ -42,7 +42,7 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -92,7 +92,7 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [VISHWASA](https://khushi-4321.github.io/vishwasa-2.0/): Heritage Sustainability Platform
 > Responsive web platform promoting India's cultural heritage through eco-friendly solutions.
@@ -115,13 +115,13 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 - **Built at:** CDAC Noida Cybersecurity Internship
 
 ### python-grind *(Ongoing)*
-> Daily Python practice repository — DSA problems, fundamentals, and LeetCode solutions.
+> Daily Python practice repository: DSA problems, fundamentals, and LeetCode solutions.
 - **Stack:** Python
 - **Repo:** [github.com/Khushi-4321/python-grind](https://github.com/Khushi-4321/python-grind)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Khushi-4321&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -132,25 +132,25 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ---
 
-## 🧠 LeetCode Progress
+## LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khushi4321?theme=dark&font=Nunito&ext=contest)
 
 ---
 
-## 📜 Certifications
-- Junior Cybersecurity Analyst Career Path — Cisco Networking Academy
-- Web Development Fundamentals — IBM
-- Artificial Intelligence Fundamentals — IBM
-- Cybersecurity Essentials — IBM
-- Getting Started with Data — IBM
-- Project Management Fundamentals
+## Certifications
+- Junior Cybersecurity Analyst Career Path: Cisco Networking Academy
+- Web Development Fundamentals: IBM
+- Artificial Intelligence Fundamentals: IBM
+- Cybersecurity Essentials: Cisco Networking Academy
+- Getting Started with Data: IBM
+- Project Management Fundamentals: IBM
 
 ---
 
-## 🏫 Campus Roles
-- **Placement Coordinator** — Bhagat Phool Singh Mahila University *(Sep 2025 – Present)*
-- **Event Coordinator** — Dhara Eco Club *(Sep 2024 – Present)*
+## Campus Roles
+- **Placement Coordinator** Bhagat Phool Singh Mahila University *(Sep 2025 – Present)*
+- **Event Coordinator** Dhara Eco Club *(Sep 2024 – Present)*
 
 ---
 
@@ -158,4 +158,4 @@ Completed structured training in networking, cybersecurity essentials, and ethic
   <img src="https://komarev.com/ghpvc/?username=Khushi-4321&color=blueviolet&style=for-the-badge" />
 </p>
 
-> *"Stop being ordinary."* — Working on it. Every single day.
+> *"Stop being ordinary."*  Working on it. Every single day.

@@ -2,7 +2,7 @@
 
 **B.Tech CSE '27 · Agentic AI · Full-Stack Dev · Cybersecurity**
 
-> Pre-final year CS student from India building real things at the intersection of AI, web development, and security.
+> Pre-final year CS student from India building real things at the intersection of AI, ML, web development, and security.
 > Currently deep in DSA grind, Python fundamentals, and Agentic AI systems committing every single day.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi786)
@@ -139,13 +139,14 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 ---
 
 ## Certifications
+- Python for Data Science: IBM
 - Junior Cybersecurity Analyst Career Path: Cisco Networking Academy
 - Web Development Fundamentals: IBM
 - Artificial Intelligence Fundamentals: IBM
 - Cybersecurity Essentials: Cisco Networking Academy
 - Getting Started with Data: IBM
 - Project Management Fundamentals: IBM
-
+  
 ---
 
 ## Campus Roles

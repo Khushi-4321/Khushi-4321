@@ -1,21 +1,23 @@
-# Hi, I'm Khushi
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3Ym9nZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hpG0NDDXfV_vfSBYfU/giphy.gif" width="35px"> Hi, I'm Khushi
 
-**B.Tech CSE '27 · Agentic AI · Full-Stack Dev · Cybersecurity**
+<p align="left">
+  <a href="https://linkedin.com/in/khushi786"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/khushi4321"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:er.khushi1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Khushi-4321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-> Pre-final year CS student from India building real things at the intersection of AI, ML, web development, and security.
-> Currently deep in DSA grind, Python fundamentals, and Agentic AI systems committing every single day.
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36D7B7&width=435&lines=Agentic+AI+Engineer;Cloud+Enthusiast;Full-Stack+Developer;B.Tech+CSE+'27)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi786)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/khushi4321)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.khushi1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khushi-4321)
+> **Pre-final year CS student** building real things at the intersection of AI, Machine Learning, and Web Development. 
+> Currently: **Agentic AI Systems** | **Cloud Native Apps** | **Python fundamentals committing every single day** | **DSA Grind** |
 
 ---
 
 ##  What I'm Building Right Now
 -  **Agentic AI:** LLMs, RAG pipelines, LangChain, autonomous agent systems
--  **DSA:** Daily LeetCode grind, Blind 75 in progress
--  **Fullstack:** React + FastAPI + deployment
+-  **DSA:** Daily Python and LeetCode grind
+-  **Fullstack:** React + Next.js + FastAPI + deployment
 -  **Cloud:** Google Cloud Platform, API integrations
 
 ---
@@ -42,57 +44,12 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ---
 
-## Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-**Web Development**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</p>
-
-**AI & Data**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-</p>
-
-**Cybersecurity & OS**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
-</p>
-
-**Tools & Cloud**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
-
----
-
 ## Projects
+
+### [LifeOs](https://lyfos.vercel.app/): Agentic AI powered Hospital management system
+> Multi-agent workflow for hospital patient routing across General, Emergency, and Mental Health wards with interactive personalisez dashboard.
+- **Stack:** Relay.app automation, custom frontend, Google Sheets integration, next.js, API keys
+- **Impact:** Reduced hospital waiting time by 96.4%.
 
 ### [VISHWASA](https://khushi-4321.github.io/vishwasa-2.0/): Heritage Sustainability Platform
 > Responsive web platform promoting India's cultural heritage through eco-friendly solutions.
@@ -104,11 +61,6 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 - **Stack:** IBM WatsonX, NLP
 - **Role:** Team lead, project coordination
 
-### AI Triage System, Hospital Use Case *(Team Project)*
-> Multi-agent workflow for hospital patient routing across General, Emergency, and Mental Health wards.
-- **Stack:** Relay.app automation, custom frontend, Google Sheets integration
-- **Role:** Workflow design + frontend interface
-
 ### Audio Forensics System
 > Voice matching system for suspect identification using audio analysis techniques.
 - **Stack:** Python, Linux
@@ -118,6 +70,45 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 > Daily Python practice repository: DSA problems, fundamentals, and LeetCode solutions.
 - **Stack:** Python
 - **Repo:** [github.com/Khushi-4321/python-grind](https://github.com/Khushi-4321/python-grind)
+
+---
+
+## Tech Stack
+
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,mysql,postgres" />
+  </a>
+</p>
+
+**Web Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,fastapi,mongodb,postman" />
+  </a>
+</p>
+
+**AI & Data**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,sklearn,opencv,jupyter" />
+  </a>
+</p>
+
+**Cybersecurity & OS**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,kali,bash" />
+  </a>
+</p>
+
+**Tools & Cloud**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gcp,aws,vercel,vscode,docker,figma" />
+  </a>
+</p>
 
 ---
 
@@ -154,9 +145,8 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 - **Event Coordinator** Dhara Eco Club *(Sep 2024 – Present)*
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khushi-4321&color=blueviolet&style=for-the-badge" />
 </p>
 
-> *"Stop being ordinary."*  Working on it. Every single day.
+<h3 align="center"><i>"Stop being ordinary."</i> Working on it. Every single day.</h3>

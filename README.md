@@ -112,22 +112,6 @@ Completed structured training in networking, cybersecurity essentials, and ethic
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-4321&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-4321&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi-4321&theme=tokyo-night&hide_border=true)
-
----
-
-## LeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/khushi4321?theme=dark&font=Nunito&ext=contest)
-
----
 
 ## Certifications
 - Python for Data Science: IBM
